@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/ankit-jasani/docker-adobe-commerce-latest-sf/
+    type: markup
+
+folders:
+  /products/: /products/default
